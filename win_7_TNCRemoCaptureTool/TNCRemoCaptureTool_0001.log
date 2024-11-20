@@ -1,0 +1,10 @@
+2024-11-18 15:25:09 - DEBUG - Pinging 172.16.10.174 with timeout 2 seconds.
+2024-11-18 15:25:09 - DEBUG - Ping to 172.16.10.174 failed.
+2024-11-18 15:25:09 - WARNING - Machine 0001 is initially not reachable as of 2024-11-18 15:25:09.902579.
+2024-11-18 15:25:09 - DEBUG - Appended text to C:\Users\aaljalali\Desktop\TNCRemoCaptureTool\Notes.txt: Machine 0001 is not reachable as of 2024-11-18 15:25:09.902579.
+2024-11-18 15:25:09 - WARNING - Machine 0001 is not reachable, maybe the machine is off. Sleeping for 300 seconds then retrying.
+2024-11-18 15:25:42 - DEBUG - Pinging 172.16.10.174 with timeout 2 seconds.
+2024-11-18 15:25:42 - DEBUG - Ping to 172.16.10.174 failed.
+2024-11-18 15:25:42 - WARNING - Machine 0001 is initially not reachable as of 2024-11-18 15:25:42.406911.
+2024-11-18 15:25:42 - DEBUG - Appended text to C:\Users\aaljalali\Desktop\TNCRemoCaptureTool\Notes.txt: Machine 0001 is not reachable as of 2024-11-18 15:25:42.406911.
+2024-11-18 15:25:42 - WARNING - Machine 0001 is not reachable, maybe the machine is off. Sleeping for 300 seconds then retrying.
