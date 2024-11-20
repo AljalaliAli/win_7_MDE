@@ -5,7 +5,7 @@ import subprocess
 from datetime import datetime
 import logging
 import configparser
-
+#
 def create_folder(folder_path):
     """
     Creates a folder if it doesn't exist.
