@@ -275,11 +275,4 @@ def load_config(config_file):
         print(f"[DEBUG] Successfully loaded configuration from {config_file}")
     return config
 
-if __name__ == '__main__':
-    timestamp = datetime.now()
-    print(f"[DEBUG] Attempting to take screenshot at {timestamp}.")
-    # Load configuration data from the config.ini file
-    config_file = r'C:\Users\aaljalali\Desktop\MDE\TNCRemoCaptureTool\ini_files\config_ID0002_MID0001.ini'
-    config = load_config(config_file)
-    ceated_img_name= create_standard_img_name(config, timestamp)
-    print(f"ceated_img_name : {ceated_img_name}")
+ 
